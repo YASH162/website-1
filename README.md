@@ -16,7 +16,7 @@ Please submit additions and fixes as pull requests to [our GitHub repository](ht
 Lessons are not stored in this repository:
 please see [the lessons page](http://software-carpentry.org/lessons/)
 for links to their repositories.
-
+>Its an amazing open source project 
 > Software Carpentry is an open project,
 > and we welcome contributions of all kinds.
 > By contributing,
